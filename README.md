@@ -2,7 +2,7 @@
 
 **An automated two-stage generative framework for converting Vietnamese commercial music into clinically-bounded therapeutic audio for individuals with Autism Spectrum Disorder (ASD).**
 
-Final-year summer research project — Department of Computer Science and Engineering, Faculty of Engineering, The Chinese University of Hong Kong (CUHK AISTN Summer Research Internship, 2026).
+First-year summer research project — Department of Computer Science and Engineering, Faculty of Engineering, The Chinese University of Hong Kong (CUHK AISTN Summer Research Internship, 2026).
 
 **Author:** Hoang Tuan Minh
 **Supervisor:** Nguyen Viet Anh (Assistant Professor)
