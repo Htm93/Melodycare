@@ -106,7 +106,7 @@ See each script's docstring/`--help` for full CLI arguments (e.g. `inference.py 
 
 ## License
 
-> **TODO:** add a LICENSE file (e.g. MIT or Apache 2.0).
+This project is licensed under the MIT License — see [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
